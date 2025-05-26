@@ -1,0 +1,124 @@
+/* تنسيق العنوان */
+.footer-heading {
+  font-size: 1rem;
+  color: var(--warm-terracotta);
+  font-family: 'Heebo', sans-serif;
+  margin-bottom: 0.75rem;
+}
+
+/* تنسيق الروابط */
+.footer-links {
+  color: var(--muted-olive-green);
+  font-weight: normal;
+  font-size: 0.85rem;
+}
+
+.footer-links li {
+  margin-bottom: 0.3rem;
+}
+
+.footer-links a {
+  color: var(--muted-olive-green);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: var(--warm-terracotta);
+}
+
+/* تنسيق أيقونات التطبيقات */
+.app-downloads a {
+  color: var(--warm-terracotta);
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
+
+.app-icon {
+  width: 1.5rem;
+  height: 1.75rem;
+}
+
+.app-text {
+  font-size: 0.7rem;
+}
+
+.app-name {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+/* تنسيق أيقونات التواصل الاجتماعي */
+.social-icons {
+  margin: 0.75rem 0;
+}
+
+.social-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.1);
+}
+
+/* تنسيق رابط التقييم */
+.rate-us {
+  color: var(--warm-terracotta);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.rate-us:hover {
+  text-decoration: underline;
+}
+
+/* تنسيق حقوق النشر */
+.copyright {
+  font-size: 0.65rem;
+  color: var(--warm-terracotta);
+}
+
+/* تعديلات للشاشات المتوسطة والكبيرة */
+@media (min-width: 768px) {
+  .footer-heading {
+    font-size: 1.1rem;
+  }
+  
+  .footer-links {
+    font-size: 0.9rem;
+  }
+  
+  .footer-links li {
+    margin-bottom: 0.4rem;
+  }
+  
+  .app-text {
+    font-size: 0.75rem;
+  }
+  
+  .app-name {
+    font-size: 0.85rem;
+  }
+  
+  .social-icon {
+    width: 1.75rem;
+    height: 1.75rem;
+  }
+  
+  .rate-us {
+    font-size: 0.95rem;
+  }
+}
+
+/* تعديلات للشاشات الكبيرة جدًا */
+@media (min-width: 992px) {
+  .footer-heading {
+    font-size: 1.2rem;
+  }
+  
+  .footer-links {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,74 @@
+
+
+/* تنسيق الهيدر */
+.custom-header {
+  background-color: var(--soft-beige);
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0.25rem;
+  z-index: 50;
+}
+
+/* تنسيق الشعار */
+.logo-img {
+  height: 2rem;
+}
+
+/* تنسيق اسم العلامة التجارية */
+.brand-name {
+  font-size: 1.25rem;
+  color: var(--warm-terracotta);
+  font-family: 'Coiny', cursive;
+}
+
+/* تنسيق روابط القائمة */
+.navbar-nav .nav-link {
+  color: var(--dark-brownish-gray);
+  font-family: 'Heebo', sans-serif;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--warm-terracotta);
+}
+
+/* تنسيق أزرار تسجيل الدخول والاشتراك */
+.auth-buttons {
+  font-weight: 500;
+  color: var(--dark-brownish-gray);
+}
+
+.login-btn {
+  color: var(--dark-brownish-gray);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.login-btn:hover,.signup-btn:hover,.login-btn:focus,.signup-btn:focus {
+  color: var(--warm-terracotta);
+   border: none;
+   outline: none;
+   box-shadow: none;
+}
+
+.signup-btn {
+  color: var(--muted-olive-green);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* تعديلات للشاشات الصغيرة */
+@media (max-width: 767.98px) {
+  .auth-buttons {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-collapse {
+    padding: 1rem 0;
+  }
+}

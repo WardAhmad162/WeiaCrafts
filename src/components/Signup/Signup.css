@@ -1,0 +1,18 @@
+
+body {
+  font-family: 'Heebo', sans-serif;
+  background-color: var(--soft-beige);
+}
+
+h2 {
+  font-family: 'Candal', sans-serif;
+}
+.form-control{
+   background-color: var(--beige);
+}
+.form-control:focus {
+  background-color: var(--beige); /* الحفاظ على لون الخلفية عند التركيز */
+  border-color: var(--peachy-highlight); /* تغيير لون الحدود عند التركيز (اختياري، اختر اللون المناسب) */
+  box-shadow: 0 0 0 0.25rem rgba(var(--peachy-highlight-rgb, 180, 149, 126), 0.25); /* تغيير ظل التركيز (اختياري، استخدم ألوانك) */
+  color: var(--dark-brownish-gray); /* التأكد من أن لون النص لا يزال مناسباً */
+}
