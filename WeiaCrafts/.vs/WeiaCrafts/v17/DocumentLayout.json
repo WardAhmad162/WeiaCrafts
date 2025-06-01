@@ -1,0 +1,1353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\enum\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\enum\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\data\\weiacraftscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\data\\weiacraftscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|solutionrelative:weiacraftsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\dataseeding\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\dataseeding\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\dataseeding\\idataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\dataseeding\\idataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\dataseeding\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\dataseeding\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\dataseeding\\courseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\dataseeding\\courseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\interfaces\\idataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\interfaces\\idataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\weiacraftsinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\weiacraftsinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\datacreation\\coursecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\datacreation\\coursecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|solutionrelative:weiacraftsapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WeiaCraftsDatabase/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\repositories\\coursedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\repositories\\coursedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|solutionrelative:weiacraftsapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|solutionrelative:weiacraftsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\repositories\\trainerdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\repositories\\trainerdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WeiaCraftsDatabase/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\repositories\\videodatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\repositories\\videodatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\datacreation\\videocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\datacreation\\videocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\services\\currencyconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\services\\currencyconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\interfaces\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\interfaces\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\interfaces\\icurrencyconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\interfaces\\icurrencyconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\updatelessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\updatelessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\trainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\trainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\traineedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\traineedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\paymentsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\paymentsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\createlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\createlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\coursefilteroptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\coursefilteroptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapi\\weiacrafts.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|solutionrelative:weiacraftsapi\\weiacrafts.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\paidaccounttrainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\paidaccounttrainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\platformfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\platformfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\dtos\\paymenthistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\dtos\\paymenthistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\coursematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\coursematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\data\\weiacraftscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\data\\weiacraftscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\videofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\videofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\videorating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\videorating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsinfrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4DDE9E8-8C43-4EC0-8158-F58396D44DA3}|WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj|solutionrelative:weiacraftsinfrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62554618-444E-0931-D45D-E2786072B7FF}|WeiaCraftsAPI\\WeiaCraftsAPI.csproj|solutionrelative:weiacraftsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\weiacraftsdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\weiacraftsdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsapplication\\weiacraftsapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B81E72E4-1103-4E2E-ABB4-76539B170FAF}|WeiaCraftsApplication\\WeiaCraftsApplication.csproj|solutionrelative:weiacraftsapplication\\weiacraftsapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\enum\\courselevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\enum\\courselevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\enum\\courselanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\enum\\courselanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\traineralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\traineralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\trainerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\trainerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|c:\\users\\lenas\\onedrive\\weiacrafts\\weiacraftsdomain\\entities\\trainerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD3C6D4-C5A8-426B-87AA-5019085D65BA}|WeiaCraftsDomain\\WeiaCraftsDomain.csproj|solutionrelative:weiacraftsdomain\\entities\\trainerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Enum\\AccountStatus.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Enum\\AccountStatus.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Enum\\AccountStatus.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Enum\\AccountStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:07:25.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\AccountStatus.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\AccountStatus.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\AccountStatus.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\AccountStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:07:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Lesson.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\Lesson.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:53:24.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\EnrollmentDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\EnrollmentDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\EnrollmentDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:48:53.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:47:14.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeiaCraftsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Data\\WeiaCraftsContext.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\Data\\WeiaCraftsContext.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Data\\WeiaCraftsContext.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\Data\\WeiaCraftsContext.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAKgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:14:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WeiaCraftsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\appsettings.json",
+              "RelativeToolTip": "WeiaCraftsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T21:14:27.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\DataSeeding\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\RoleSeeder.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\DataSeeding\\RoleSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:41:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CartDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CartDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:17.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\DataSeeding\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\DatabaseSeeder.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\DataSeeding\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:42:20.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\CourseSeeder.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\DataSeeding\\CourseSeeder.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\CourseSeeder.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\DataSeeding\\CourseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:05:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Cart.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:49:04.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\IDataSeeder.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\DataSeeding\\IDataSeeder.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataSeeding\\IDataSeeder.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\DataSeeding\\IDataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:39:21.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:49:50.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IDataSeeder.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Interfaces\\IDataSeeder.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IDataSeeder.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Interfaces\\IDataSeeder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:39:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeiaCraftsInfrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\WeiaCraftsInfrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T13:47:50.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataCreation\\CourseCreation.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\DataCreation\\CourseCreation.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataCreation\\CourseCreation.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\DataCreation\\CourseCreation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:01:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Repositories\\CourseDataStore.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\Repositories\\CourseDataStore.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Repositories\\CourseDataStore.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\Repositories\\CourseDataStore.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA1wA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:01:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsAPI\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "WeiaCraftsAPI\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:50:10.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Courses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WeiaCraftsDatabase/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "dbo.Courses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-31T13:14:01.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WeiaCraftsAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAMwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:50:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:41:03.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\AdminService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Services\\AdminService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAABgCAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:58:31.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WeiaCraftsAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAEgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:49:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\UserService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Services\\UserService.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:07:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:07:39.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:05:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Roles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WeiaCraftsDatabase/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-24T15:51:47.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VideoCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataCreation\\VideoCreation.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\DataCreation\\VideoCreation.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\DataCreation\\VideoCreation.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\DataCreation\\VideoCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:01:19.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:48:46.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TrainerDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Repositories\\TrainerDataStore.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\Repositories\\TrainerDataStore.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Repositories\\TrainerDataStore.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\Repositories\\TrainerDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:01:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VideoDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Repositories\\VideoDataStore.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\Repositories\\VideoDataStore.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Repositories\\VideoDataStore.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\Repositories\\VideoDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:01:36.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:15:57.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CurrencyConverterService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\CurrencyConverterService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Services\\CurrencyConverterService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\CurrencyConverterService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Services\\CurrencyConverterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:00:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ILessonService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\ILessonService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Interfaces\\ILessonService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\ILessonService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Interfaces\\ILessonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:36:10.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:56:46.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Services\\PaymentService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:59:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICurrencyConverterService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\ICurrencyConverterService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Interfaces\\ICurrencyConverterService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\ICurrencyConverterService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Interfaces\\ICurrencyConverterService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:28:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\Interfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:08:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\UserProfileDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UserProfileDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\UserProfileDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:33:24.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:13:05.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:14:08.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateLessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UpdateLessonDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\UpdateLessonDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UpdateLessonDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\UpdateLessonDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:00:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UpdateCourseDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\UpdateCourseDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\UpdateCourseDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\UpdateCourseDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:00:12.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PaymentSuccessDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\PaymentSuccessDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\PaymentSuccessDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\PaymentSuccessDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\PaymentSuccessDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:01:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\LessonDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\LessonDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\LessonDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\LessonDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:53.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\FeedbackDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\FeedbackDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\FeedbackDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\FeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:51.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ExchangeRateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\ExchangeRateResponse.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\ExchangeRateResponse.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\ExchangeRateResponse.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\ExchangeRateResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TraineeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\TraineeDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\TraineeDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\TraineeDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\TraineeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:05:20.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TrainerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\TrainerDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\TrainerDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\TrainerDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\TrainerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:10:46.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateLessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CreateLessonDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\CreateLessonDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CreateLessonDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\CreateLessonDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:48.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CreateCourseDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\CreateCourseDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CreateCourseDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\CreateCourseDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CourseFilterOptionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CourseFilterOptionsDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\CourseFilterOptionsDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CourseFilterOptionsDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\CourseFilterOptionsDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:44.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CourseDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CourseDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\CourseDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CartItemDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:59:19.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "WeiaCrafts.http",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\WeiaCrafts.http",
+              "RelativeDocumentMoniker": "WeiaCraftsAPI\\WeiaCrafts.http",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\WeiaCrafts.http",
+              "RelativeToolTip": "WeiaCraftsAPI\\WeiaCrafts.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T13:47:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\CheckoutDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\CheckoutDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\CheckoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:02:49.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\User.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:03:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Trainee.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\Trainee.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Trainee.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\Trainee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:01:00.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Trainer.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\Trainer.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Trainer.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:01:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PaidAccountTrainee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\PaidAccountTrainee.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\PaidAccountTrainee.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\PaidAccountTrainee.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\PaidAccountTrainee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:01:14.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PlatformFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\PlatformFeedback.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\PlatformFeedback.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\PlatformFeedback.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\PlatformFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:59:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PaymentHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\PaymentHistoryDto.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\DTOs\\PaymentHistoryDto.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\DTOs\\PaymentHistoryDto.cs",
+              "RelativeToolTip": "WeiaCraftsApplication\\DTOs\\PaymentHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:02:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CourseMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\CourseMaterial.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\CourseMaterial.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\CourseMaterial.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\CourseMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:58:53.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Feedback.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\Feedback.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:58:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Material.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\Material.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\Material.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\Material.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:58:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "VideoFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\VideoFeedback.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\VideoFeedback.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\VideoFeedback.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\VideoFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:00:12.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "VideoRating.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\VideoRating.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\VideoRating.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\VideoRating.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\VideoRating.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:05:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "WeiaCraftsContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Data\\WeiaCraftsContextFactory.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\Data\\WeiaCraftsContextFactory.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\Data\\WeiaCraftsContextFactory.cs",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\Data\\WeiaCraftsContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:06:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\appsettings.Development.json",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T13:03:45.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\appsettings.json",
+              "RelativeDocumentMoniker": "WeiaCraftsInfrastructure\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsInfrastructure\\appsettings.json",
+              "RelativeToolTip": "WeiaCraftsInfrastructure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T13:03:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WeiaCraftsAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsAPI\\appsettings.Development.json",
+              "RelativeToolTip": "WeiaCraftsAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T13:00:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "WeiaCraftsDomain.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\WeiaCraftsDomain.csproj",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\WeiaCraftsDomain.csproj",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\WeiaCraftsDomain.csproj",
+              "RelativeToolTip": "WeiaCraftsDomain\\WeiaCraftsDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T13:47:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "WeiaCraftsApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\WeiaCraftsApplication.csproj",
+              "RelativeDocumentMoniker": "WeiaCraftsApplication\\WeiaCraftsApplication.csproj",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsApplication\\WeiaCraftsApplication.csproj",
+              "RelativeToolTip": "WeiaCraftsApplication\\WeiaCraftsApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T13:47:39.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CourseLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Enum\\CourseLevel.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Enum\\CourseLevel.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Enum\\CourseLevel.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Enum\\CourseLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:28:41.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CourseLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Enum\\CourseLanguage.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Enum\\CourseLanguage.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Enum\\CourseLanguage.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Enum\\CourseLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:31:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "TrainerAlert.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\TrainerAlert.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\TrainerAlert.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\TrainerAlert.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\TrainerAlert.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:51:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TrainerFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\TrainerFeedback.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\TrainerFeedback.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\TrainerFeedback.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\TrainerFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:09:22.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "TrainerRating.cs",
+              "DocumentMoniker": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\TrainerRating.cs",
+              "RelativeDocumentMoniker": "WeiaCraftsDomain\\Entities\\TrainerRating.cs",
+              "ToolTip": "C:\\Users\\Lenas\\OneDrive\\WeiaCrafts\\WeiaCraftsDomain\\Entities\\TrainerRating.cs",
+              "RelativeToolTip": "WeiaCraftsDomain\\Entities\\TrainerRating.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:05:55.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

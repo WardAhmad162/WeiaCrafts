@@ -1,0 +1,11 @@
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\bin\Debug\net8.0\WeiaCraftsDomain.deps.json
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\bin\Debug\net8.0\WeiaCraftsDomain.dll
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\bin\Debug\net8.0\WeiaCraftsDomain.pdb
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\WeiaCraftsDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\WeiaCraftsDomain.AssemblyInfoInputs.cache
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\WeiaCraftsDomain.AssemblyInfo.cs
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\WeiaCraftsDomain.csproj.CoreCompileInputs.cache
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\WeiaCraftsDomain.dll
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\refint\WeiaCraftsDomain.dll
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\WeiaCraftsDomain.pdb
+C:\Users\Lenas\OneDrive\WeiaCrafts\WeiaCraftsDomain\obj\Debug\net8.0\ref\WeiaCraftsDomain.dll
